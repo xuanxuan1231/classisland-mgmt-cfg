@@ -2,7 +2,7 @@
     "ServerKind": 0,
     "OrganizationName": "北大附中新馨学校",
     "ClassPlanSource": {
-        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/master/classplans.json",
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
