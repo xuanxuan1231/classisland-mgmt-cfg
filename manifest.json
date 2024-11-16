@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "北大附中新馨学校"
+    "OrganizationName": "北大附中新馨学校",
+    "ClassPlanSource": {
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/subjects.json",
+        "Version": 1
+    }
 }
