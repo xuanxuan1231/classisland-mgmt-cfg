@@ -5,6 +5,6 @@
     "DisableProfileEditing": true,
     "DisableSettingsEditing": false,
     "DisableSplashCustomize": false,
-    "DisableDebugMenu": true,
+    "DisableDebugMenu": false,
     "AllowExitManagement": true
 }
