@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://ci-mgmt.gemen.pp.ua/{id}/subjects.json",
         "Version": 2
+    },
+    "PolicySource": {
+        "Value":"https://ci-mgmt.gemen.pp.ua/{id}/policy.json",
+        "Version": 2
     }
 }
