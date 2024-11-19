@@ -62,7 +62,7 @@
                     "IsActive": false
                 }
             ],
-            "Name": "周一",
+            "Name": "\u5468\u4E00",
             "IsOverlay": false,
             "OverlaySourceId": null,
             "OverlaySetupTime": "2024-11-15T16:47:03.1128401+08:00",
@@ -71,7 +71,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -80,10 +80,10 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "ClassOnPreparingMaskText": "即将上课",
-                    "ClassOnMaskText": "上课",
-                    "ClassOffMaskText": "课间休息",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -161,7 +161,7 @@
                     "IsActive": false
                 }
             ],
-            "Name": "周二",
+            "Name": "\u5468\u4E8C",
             "IsOverlay": false,
             "OverlaySourceId": null,
             "OverlaySetupTime": "2024-11-15T16:48:18.8286355+08:00",
@@ -170,7 +170,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -179,10 +179,10 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "ClassOnPreparingMaskText": "即将上课",
-                    "ClassOnMaskText": "上课",
-                    "ClassOffMaskText": "课间休息",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -260,7 +260,7 @@
                     "IsActive": false
                 }
             ],
-            "Name": "周三",
+            "Name": "\u5468\u4E09",
             "IsOverlay": false,
             "OverlaySourceId": null,
             "OverlaySetupTime": "2024-11-15T16:49:08.8337687+08:00",
@@ -269,7 +269,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -278,10 +278,10 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "ClassOnPreparingMaskText": "即将上课",
-                    "ClassOnMaskText": "上课",
-                    "ClassOffMaskText": "课间休息",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -354,7 +354,7 @@
                     "IsActive": false
                 }
             ],
-            "Name": "周四",
+            "Name": "\u5468\u56DB",
             "IsOverlay": false,
             "OverlaySourceId": null,
             "OverlaySetupTime": "2024-11-15T16:49:57.9913857+08:00",
@@ -363,7 +363,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -372,10 +372,10 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "ClassOnPreparingMaskText": "即将上课",
-                    "ClassOnMaskText": "上课",
-                    "ClassOffMaskText": "课间休息",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -448,7 +448,7 @@
                     "IsActive": false
                 }
             ],
-            "Name": "周五 单周",
+            "Name": "\u5468\u4E94 \u5355\u5468",
             "IsOverlay": false,
             "OverlaySourceId": null,
             "OverlaySetupTime": "2024-11-15T16:51:14.4200911+08:00",
@@ -457,7 +457,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -466,10 +466,10 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "ClassOnPreparingMaskText": "即将上课",
-                    "ClassOnMaskText": "上课",
-                    "ClassOffMaskText": "课间休息",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -542,7 +542,7 @@
                     "IsActive": false
                 }
             ],
-            "Name": "周五 双周",
+            "Name": "\u5468\u4E94 \u53CC\u5468",
             "IsOverlay": false,
             "OverlaySourceId": null,
             "OverlaySetupTime": "2024-11-15T16:51:14.4200911+08:00",
@@ -551,7 +551,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -560,10 +560,10 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "ClassOnPreparingMaskText": "即将上课",
-                    "ClassOnMaskText": "上课",
-                    "ClassOffMaskText": "课间休息",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -586,5 +586,6 @@
     "IsOverlayClassPlanEnabled": false,
     "OverlayClassPlanId": null,
     "TempClassPlanId": null,
-    "TempClassPlanSetupTime": "2024-11-15T20:23:53.1951636+08:00"
+    "TempClassPlanSetupTime": "2024-11-15T20:23:53.1951636+08:00",
+    "IsActive": false
 }
