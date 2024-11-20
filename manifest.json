@@ -3,7 +3,7 @@
     "OrganizationName": "北大附中新馨学校",
     "ClassPlanSource": {
         "Value": "https://ci-mgmt.gemen.pp.ua/{id}/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://ci-mgmt.gemen.pp.ua/{id}/timelayouts.json",
