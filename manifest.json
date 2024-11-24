@@ -2,16 +2,16 @@
     "ServerKind": 0,
     "OrganizationName": "北大附中新馨学校",
     "ClassPlanSource": {
-        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/classplans.json",
-        "Version": 4
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/profile.json",
+        "Version": 5
     },
     "TimeLayoutSource": {
-        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/timelayouts.json",
-        "Version": 3
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/profile.json",
+        "Version": 5
     },
     "SubjectsSource": {
-        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/subjects.json",
-        "Version": 3
+        "Value": "https://ci-mgmt.gemen.pp.ua/{id}/profile.json",
+        "Version": 5
     },
     "PolicySource": {
         "Value":"https://ci-mgmt.gemen.pp.ua/{id}/policy.json",
