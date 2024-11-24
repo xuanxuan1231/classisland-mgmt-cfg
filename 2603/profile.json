@@ -1799,6 +1799,46 @@
                     "IsActive": false
                 },
                 {
+                    "StartSecond": "2024-11-15T11:40:00+08:00",
+                    "EndSecond": "2024-11-15T11:40:00+08:00",
+                    "TimeType": 2,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "BreakName": "",
+                    "AttachedObjects": {
+                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                            "IsClassOnNotificationEnabled": true,
+                            "IsClassOnPreparingNotificationEnabled": true,
+                            "IsClassOffNotificationEnabled": true,
+                            "ClassPreparingDeltaTime": 60,
+                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                            "ClassOnMaskText": "\u4E0A\u8BFE",
+                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                            "IsAttachSettingsEnabled": false,
+                            "IsActive": false
+                        },
+                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                            "IsAttachSettingsEnabled": false,
+                            "ShowExtraInfoOnTimePoint": true,
+                            "ExtraInfoType": 0,
+                            "IsCountdownEnabled": true,
+                            "CountdownSeconds": 60,
+                            "ExtraInfo4ShowSecondsSeconds": 0,
+                            "ScheduleSpacing": 1,
+                            "ShowCurrentLessonOnlyOnClass": false,
+                            "IsActive": false
+                        },
+                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                            "AlertShowMode": 2,
+                            "ForecastShowMode": 2,
+                            "IsAttachSettingsEnabled": true,
+                            "IsActive": false
+                        }
+                    },
+                    "IsActive": false
+                },
+                {
                     "StartSecond": "2024-11-15T13:00:00+08:00",
                     "EndSecond": "2024-11-15T13:00:00+08:00",
                     "TimeType": 2,
@@ -3436,46 +3476,6 @@
                     "StartSecond": "2024-11-15T13:00:00+08:00",
                     "EndSecond": "2024-11-15T13:40:00+08:00",
                     "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "BreakName": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                            "ClassOnMaskText": "\u4E0A\u8BFE",
-                            "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "ExtraInfo4ShowSecondsSeconds": 0,
-                            "ScheduleSpacing": 1,
-                            "ShowCurrentLessonOnlyOnClass": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-11-15T13:00:00+08:00",
-                    "EndSecond": "2024-11-15T13:00:00+08:00",
-                    "TimeType": 2,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
                     "BreakName": "",
