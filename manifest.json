@@ -3,15 +3,15 @@
     "OrganizationName": "北大附中新馨学校",
     "ClassPlanSource": {
         "Value": "https://ci-mgmt.gemen.pp.ua/{id}/profile.json",
-        "Version": 8
+        "Version": 9
     },
     "TimeLayoutSource": {
         "Value": "https://ci-mgmt.gemen.pp.ua/{id}/profile.json",
-        "Version": 8
+        "Version": 9
     },
     "SubjectsSource": {
         "Value": "https://ci-mgmt.gemen.pp.ua/{id}/profile.json",
-        "Version": 8
+        "Version": 9
     },
     "PolicySource": {
         "Value":"https://ci-mgmt.gemen.pp.ua/{id}/policy.json",
