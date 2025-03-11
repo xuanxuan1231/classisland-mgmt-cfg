@@ -1,5 +1,5 @@
 {
-    "Name": "2025春课表",
+    "Name": "",
     "TimeLayouts": {
         "123f371c-cad2-4f35-b817-4b29b2503550": {
             "Name": "周五",
@@ -183,7 +183,7 @@
                         "IsEnabled": true,
                         "Name": "新行动",
                         "Guid": "cf411787-96df-470c-a1df-9f6af6cfc4b5",
-                        "IsOn": false,
+                        "IsOn": true,
                         "Actions": [
                             {
                                 "Id": "classisland.notification.weather",
@@ -480,8 +480,8 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2024-11-15T12:00:00+08:00",
-                    "EndSecond": "2024-11-15T12:00:00+08:00",
+                    "StartSecond": "2024-11-15T12:50:00+08:00",
+                    "EndSecond": "2024-11-15T12:50:00+08:00",
                     "TimeType": 3,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -490,7 +490,7 @@
                         "IsEnabled": true,
                         "Name": "新行动",
                         "Guid": "73491338-cc0d-41d1-901c-2e7088f446c1",
-                        "IsOn": false,
+                        "IsOn": true,
                         "Actions": [
                             {
                                 "Id": "classisland.notification.weather",
@@ -1399,8 +1399,8 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2024-11-15T12:00:00+08:00",
-                    "EndSecond": "2024-11-15T12:00:00+08:00",
+                    "StartSecond": "2024-11-15T12:50:00+08:00",
+                    "EndSecond": "2024-11-15T12:50:00+08:00",
                     "TimeType": 3,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -1409,7 +1409,7 @@
                         "IsEnabled": true,
                         "Name": "新行动",
                         "Guid": "743b9f6c-d4f0-45ab-8502-3a2fffb98d83",
-                        "IsOn": false,
+                        "IsOn": true,
                         "Actions": [
                             {
                                 "Id": "classisland.notification.weather",
@@ -1718,7 +1718,7 @@
                         "IsEnabled": true,
                         "Name": "新行动",
                         "Guid": "dbb3b6bc-f607-4582-8876-21ba00d55622",
-                        "IsOn": false,
+                        "IsOn": true,
                         "Actions": [
                             {
                                 "Id": "classisland.notification.weather",
@@ -1991,6 +1991,7 @@
                             "ClassOnPreparingMaskText": "即将上课",
                             "ClassOnMaskText": "上课",
                             "ClassOffMaskText": "课间休息",
+                            "ClassOffOverlayText": "",
                             "IsAttachSettingsEnabled": false,
                             "IsActive": false
                         },
@@ -2003,6 +2004,7 @@
                             "ExtraInfo4ShowSecondsSeconds": 0,
                             "ScheduleSpacing": 1,
                             "ShowCurrentLessonOnlyOnClass": false,
+                            "IsNonExactCountdownEnabled": false,
                             "IsActive": false
                         },
                         "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -2322,8 +2324,8 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2024-11-15T12:00:00+08:00",
-                    "EndSecond": "2024-11-15T12:00:00+08:00",
+                    "StartSecond": "2024-11-15T12:50:00+08:00",
+                    "EndSecond": "2024-11-15T12:50:00+08:00",
                     "TimeType": 3,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -3325,8 +3327,8 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2024-11-15T12:00:00+08:00",
-                    "EndSecond": "2024-11-15T12:00:00+08:00",
+                    "StartSecond": "2024-11-15T12:50:00+08:00",
+                    "EndSecond": "2024-11-15T12:50:00+08:00",
                     "TimeType": 3,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -4330,8 +4332,8 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2024-11-15T12:00:00+08:00",
-                    "EndSecond": "2024-11-15T12:00:00+08:00",
+                    "StartSecond": "2024-11-15T12:50:00+08:00",
+                    "EndSecond": "2024-11-15T12:50:00+08:00",
                     "TimeType": 3,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -5189,7 +5191,7 @@
                     "IsActive": false
                 },
                 {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
                     "IsChangedClass": false,
                     "AttachedObjects": {},
                     "IsActive": false
@@ -6114,7 +6116,7 @@
     "IsOverlayClassPlanEnabled": false,
     "OverlayClassPlanId": null,
     "TempClassPlanId": null,
-    "TempClassPlanSetupTime": "2025-02-12T14:23:29.6127556+08:00",
+    "TempClassPlanSetupTime": "2025-03-03T12:27:54.7269733+08:00",
     "ClassPlanGroups": {
         "acaf4ef0-e261-4262-b941-34ea93cb4369": {
             "Name": "默认",
@@ -6129,10 +6131,10 @@
     },
     "SelectedClassPlanGroupId": "acaf4ef0-e261-4262-b941-34ea93cb4369",
     "TempClassPlanGroupId": null,
-    "TempClassPlanGroupExpireTime": "2025-02-12T14:23:29.6129002+08:00",
+    "TempClassPlanGroupExpireTime": "2025-03-03T12:27:54.727044+08:00",
     "IsTempClassPlanGroupEnabled": false,
     "TempClassPlanGroupType": 1,
-    "Id": "95bb304a-4e5d-48aa-87a5-c4fb8b8f6f25",
+    "Id": "9cd00e2d-64cb-46a7-b2c6-ee8539e5b95f",
     "OrderedSchedules": {},
     "IsActive": false
 }
